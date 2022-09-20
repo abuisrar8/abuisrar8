@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abuisrar8
 - 👀 I’m interested in AUTOMATION TESTING & FRONTEND DEVELOPMENT
-- 🌱 I’m currently learning RUST
 - 📫 How to reach me -> abu.israr.khan.9@gmail.com
 
 <!---
